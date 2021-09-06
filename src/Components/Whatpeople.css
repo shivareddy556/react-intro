@@ -1,0 +1,32 @@
+
+  .childs1{
+      display: flex;
+      margin-left: 12pc;
+      margin-top: 5pc;
+
+  }
+  .childs2{
+        margin-left: 10pc;
+  }
+  .pad{
+      padding: 25px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      border-radius: 15px;
+      
+  }
+  .padin{
+    padding: 3pc 3pc 1pc 3pc;
+    box-shadow: 0 0 1px 0 rgba(0,0,0,0.2);
+   
+  }
+  .boss{
+margin-left: 4pc;
+margin-top: -7pc;
+  }
+  .thoms{
+    margin-top: 4pc;
+    margin-left: -2pc;
+  }
+  
+  
+  

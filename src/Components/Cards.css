@@ -1,0 +1,132 @@
+
+  .container {
+    padding: 2px 16px;
+  }
+  .catagory{
+      margin-left: 35rem;
+  }
+  .john{
+      margin-left: 8rem;
+      color:orchid
+      
+  }
+  .padding{
+    border-radius: 15px 0px 50px 30px; 
+    background: #73AD21;
+    padding: 20px; 
+    width: 20px;
+    height: 20px;  
+    margin-left: 2pc;  
+  }
+  .fa-smog{
+      font-size: 55px;  
+      color: paleturquoise; 
+      margin-top: -10pc;
+  }
+  .margin{
+    display: flex;
+    margin: 10px;
+  }
+  .card-body{
+    margin-top: -4pc;
+  }
+  .row{
+    /* display: flex; */
+    margin: 55px;
+  }
+  .col-md-3{
+   /* margin-left: 15px; */
+   border: none;
+  }
+  .fa-fighter-jet{
+    font-size: 55px;
+    color: paleturquoise;
+    margin-top: -35px;
+  }
+ .fa-microphone-alt{
+  font-size: 55px;
+  color: paleturquoise;
+  margin-left: 5pc;
+  margin-bottom: 60px;
+ }
+ .fa-cog{
+   font-size: 55px;
+   color: paleturquoise;
+   margin-top: -15pc;
+  
+ }
+ .nothing{
+  border-radius: 15px  0px  30px 50px; 
+  background: #73AD21;
+  padding: 20px; 
+  width: 20px;
+  height: 20px;  
+  margin-left: 2pc;  
+  /* margin-top: -25px;   */
+ }
+ .northing{
+  border-radius: 15px  0px  30px 50px; 
+  background: #73AD21;
+  padding: 20px; 
+  width: 20px;
+  height: 20px;  
+  margin-left: 3pc;
+  
+  
+ }
+ .something{
+  border-radius: 15px  0px  30px 50px; 
+  background: #73AD21;
+  padding: 20px; 
+  width: 20px;
+  height: 20px;
+  margin-left: 8pc; 
+  margin-top:95px;
+  /* margin-left: 75px;
+  margin-bottom: 65px; */
+ }
+ 
+ .card-shadow{
+   box-shadow:2px 2px 2px 2px paleturquoise;
+   margin-top: 1pc;
+   border-radius: 1pc;
+ }
+ .boxshadow{
+   padding: 10px;
+   box-shadow:2px 2px 2px 2px paleturquoise;
+ }
+ .same{
+   margin-left: 0pc;
+   padding: 4pc;
+   
+ }
+
+   .card-title{
+     text-decoration: none;
+     font-size: 25px;
+   }
+   .card-text{
+    text-decoration: none;
+    font-size: 18px;
+    font-size: large;
+    width: 180px;
+   }
+   .some{
+     margin-top: -60px;
+   }
+   .crow{
+     margin-left: -35pc;
+   }
+   .weathers{
+    border-radius: 50px 5px 5px 5px;
+    background: #73AD21;
+    padding: 5px; 
+    width: 200px;
+    height: 150px;  
+   }
+   .fa-ellipsis-h{
+     font-size: 55px;
+     margin-top: 7pc;
+   }
+
+ 

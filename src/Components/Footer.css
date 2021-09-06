@@ -1,0 +1,200 @@
+.mango{
+    margin-left: 7pc;
+}
+.name{
+    margin: 3pc;
+}
+.corners1 {
+    border-radius: 95px 5px 5px 5px ;
+    background: pink;
+    padding: 100px; 
+    width: 80%;
+    height: 100%;  
+   margin-left: 8pc;
+   margin-top: -1.8pc;
+   
+  }
+  .bold{
+      margin-top: -5pc;
+  }
+  .action{
+    padding: 6px 10px;
+    margin-top: 3pc;
+    margin-left: 7pc;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  .search{
+    padding: 10px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+    border-radius: 25px;
+
+  }
+  .BTN{
+      margin-left: 1pc;
+      border-radius: 10px;
+      padding:5px 35px  5px 35px ;
+      background-color: red;
+  }
+  .fa-location-arrow{
+      font-size: 45px;
+      margin-left: 82rem;
+      background-color: royalblue;
+      border-radius: 30px;
+      width:55px;
+      height: 55px;
+      color: seashell;
+  }
+  
+  .nav__title {
+    font-weight: 400;
+    font-size: 15px;
+  }
+  
+  .footer address {
+    font-style: normal;
+    color: #999;
+  }
+  .footer__addrs{
+      margin-left: 250px;
+  }
+  
+  
+  .footer ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .footer li {
+    line-height: 2em;
+  }
+  
+  .footer a {
+    text-decoration: none;
+  }
+  
+  .footer__nav {
+    display: flex;
+      flex-flow: row wrap;
+  }
+  
+  .footer__nav > * {
+    flex: 1 50%;
+    margin-right: 1.25em;
+  }
+  
+  .nav__ul a {
+    color: #999;
+  }
+  
+  .nav__ul--extra {
+    column-count: 2;
+    column-gap: 1.25em;
+  }
+  
+  .legal {
+    display: flex;
+    flex-wrap: wrap;
+    color: #999;
+  }
+    
+  .legal__links {
+    display: flex;
+    align-items: center;
+  }
+  
+  .heart {
+    color: #2f2f2f;
+  }
+  
+  @media screen and (min-width: 24.375em) {
+    .legal .legal__links {
+      margin-left: auto;
+    }
+  }
+  
+  @media screen and (min-width: 40.375em) {
+    .footer__nav > * {
+      flex: 1;
+    }
+    
+    .nav__item--extra {
+      flex-grow: 2;
+    }
+    
+    .footer__addr {
+      flex: 1 0px;
+    }
+    
+    .footer__nav {
+      flex: 2 0px;
+    }
+  }
+  .playstore{
+  border-radius: 25px ;
+  display: flex;
+  margin-left: 10px;
+  background: black;
+  padding: 10px 25px 35px 30px; 
+  width: 80%;
+  height: 10%;
+  margin:5px;
+  color: whitesmoke;
+
+  }
+  .applle{
+    border-radius:25px ;
+    background:black;
+    padding: 10px 25px 35px 30px;  
+    width: 80%;
+    margin:5px;
+    height: 10%; 
+    color: whitesmoke;
+  }
+  .fa-facebook{
+    margin-left: 10px;
+    margin-top: 5px;
+    color: black;
+  }
+  .fa-instagram{
+    margin-left: 10px;
+      margin-top: 5px;
+      color: black;
+  }
+  .fa-twitter{
+    margin-left: 10px;
+      margin-top: 5px;
+      color: black;
+  }
+  .book{
+    background-color: red;
+    border-radius: 30px;
+    width:35px;
+    height: 35px;
+    color: seashell;
+      margin-left: 10px;
+      margin-top: 5px;
+  }
+   .fa-apple{
+       color: blanchedalmond;
+       margin-top: -50px;
+   }
+   .paren1{
+       display: flex;
+       margin-left: 8pc;
+       justify-content: space-between;
+       margin-top: 50px;
+   }
+   .nav__ul-1{
+    display: flex;
+   }
+   li{
+     list-style-type:none;
+   }
+    a {
+    text-decoration: none;
+    margin-left: -2pc;
+  }

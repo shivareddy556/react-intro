@@ -1,0 +1,27 @@
+.card-cam{
+    margin-left: 25px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.2);
+     max-width: 300px; 
+     
+  
+}
+.Roman{
+    margin:25px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.images{
+    border-radius: 15px  15px 0 0;
+}
+.settings{
+    margin-left: 600px;
+}
+.TOP{
+    margin-left: 100px;
+}
+.fa-location-arrow{
+    color: red;
+}
